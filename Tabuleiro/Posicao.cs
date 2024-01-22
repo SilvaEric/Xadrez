@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Tabuleiro
 {
-    public class Posicao
+    class Posicao
     {
         public int linha { get; set; }
         public int coluna { get; set; }
